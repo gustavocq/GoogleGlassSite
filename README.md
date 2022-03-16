@@ -1,2 +1,3 @@
 # GoogleGlassSite
-Conteúdo do curso introdutório ao desenvolvimento web e o projeto final entregue.
+Conteúdo do curso introdutório ao desenvolvimento web 
+O projeto proposto entregue.
