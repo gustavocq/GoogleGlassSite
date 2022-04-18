@@ -5,11 +5,11 @@
 
 Exemplos Interface:
 
-- <a href="_interface/index.jpg">Index</a> 
-- <a href="_interface/especs.jpg">Especificações</a> 
-- <a href="_interface/fotos.jpg">Fotos</a>
-- <a href="_interface/multimidia.jpg">Multimídia</a>
-- <a href="_interface/fale_conosco.jpg">Fale conosco</a>
+- <a href="projetoGoogleGlass/_interface/index.jpg">Index</a> 
+- <a href="projetoGoogleGlass/_interface/especs.jpg">Especificações</a> 
+- <a href="projetoGoogleGlass/_interface/fotos.jpg">Fotos</a>
+- <a href="projetoGoogleGlass/_interface/multimidia.jpg">Multimídia</a>
+- <a href="projetoGoogleGlass/_interface/fale_conosco.jpg">Fale conosco</a>
 
 
 
